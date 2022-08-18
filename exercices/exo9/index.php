@@ -1,5 +1,5 @@
 <?php ob_start(); //  ne pas modifier
-$titre = "Exo 8 - La boucle while (remplacée par do-while)"; // Mettre le titre de la page
+$titre = "Exo 9 - La boucle while (remplacée par do-while)"; // Mettre le titre de la page
 ?>
 
 <!-- mettre votre code ici -->
