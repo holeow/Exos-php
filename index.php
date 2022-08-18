@@ -137,7 +137,41 @@ $titre = "Exercices PHP"; // Mettre le titre de la page
         </div>
     </div>
 
-
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo12 - Les fonctions</span>
+                <p>Ecrire une fonction qui va vérifier si un nombre est pair ou non. Le programme se chargera d’afficher un message en fonction du résultat retourné par la fonction. La fonction ne doit pas réaliser l'affichage.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo12" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo13 - Les fonctions</span>
+                <p>Vous écrirez une fonction qui retourne la factorielle d’un nombre. La factorielle de n est la multiplication de tous les entiers <= n (ex : 5 !=1x2x3x4x5).<br>
+Notez que 0! et 1! = 1.<br>
+La fonction ne doit pas réaliser l'affichage.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo13" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo14 - Les fonctions</span>
+                <p>Ecrire une fonction qui retourne le PGCD de deux nombres entiers positifs.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo14" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
 
 
 </div>
