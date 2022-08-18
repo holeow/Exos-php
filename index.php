@@ -77,6 +77,65 @@ $titre = "Exercices PHP"; // Mettre le titre de la page
         </div>
     </div>
 
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo7 - La boucle for</span>
+                <p>Le programme choisi un nombre aléatoire entre 5 et 15 puis affiche la table de multiplication de ce nombre.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo7" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo8 - La boucle for</span>
+                <p>Le programme choisi un nombre aléatoire entre 5 et 15 puis affiche le cumul des nombres en sens inverse.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo8" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo9 - La boucle while</span>
+                <p>Le programme choisi un nombre aléatoire entre 1 et 20 tant que le nombre choisi n'est pas supérieur à 15. Afficher les essais.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo9" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo10 - La boucle do while</span>
+                <p>Le programme choisi trois nombres aléatoires entre 1 et 1000 jusqu'à obtenir une suite composée d'un nombre pair suivi de deux nombres impairs.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo10" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo11 - Les boucles for et while</span>
+                <p>Choisir un nombre de trois chiffres (en dur dans une variable). Effectuer ensuite des tirages aléatoires et compter le nombre de tirages nécessaire pour obtenir le nombre initial. Arrêter les tirages et afficher le nombre de coups réalisés. Réaliser ce script d’abord avec l’instruction while puis avec l’instruction for.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo11" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
 
 
 
