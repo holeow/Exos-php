@@ -1,8 +1,5 @@
 <?php
-
-use LDAP\Result;
-
- ob_start(); //  ne pas modifier
+ob_start(); //  ne pas modifier
 $titre = "Exo 13 - Les fonctions"; // Mettre le titre de la page
 ?>
 
