@@ -15,8 +15,8 @@ function PGCD($numa,$numb){
         return PGCD($bigger - $lower, $lower);
     }
 }
-$num1 = 12;
-$num2 = 3;
+$num1 = 48;
+$num2 = 18;
 echo "Le PGCD de $num1 et de $num2 est " . PGCD($num1,$num2);
 
 ?>
